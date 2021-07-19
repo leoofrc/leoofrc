@@ -1,7 +1,6 @@
 ### Hi there, I'm Leonardo 👋
 
 - 🔭 I’m currently graduating in mechatronic engineering.
-- 🤔 I love digital art and graphic design, my goal is to combine this with front end development.
 
 <h3 align="left">My social networks:</h3>
 <p align="left">
