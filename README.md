@@ -1,6 +1,9 @@
 ### Hi there, I'm Leonardo 👋
 
-- 🔭 I’m currently graduating in mechatronic engineering.
+- 🔭 I’m currently graduating in mechatronic engineering;
+- :robot: Team leader of EDROM, a robotics team, developing autonomous humanoid robots;
+- :computer: I have experience mainly with python, cpp, Docker and ROS;
+- :wrench: I've modeled 3d parts using SolidWorks.
 
 <h3 align="left">My social networks:</h3>
 <p align="left">
